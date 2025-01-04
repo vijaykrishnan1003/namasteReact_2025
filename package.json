@@ -1,0 +1,26 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD #namaste react 2025 ======= # namasteReact_2025 >>>>>>> 8e6a2083a39ca57d86846e0c99693c2bf8b63d87",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaykrishnan1003/namasteReact_2025.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaykrishnan1003/namasteReact_2025/issues"
+  },
+  "homepage": "https://github.com/vijaykrishnan1003/namasteReact_2025#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
